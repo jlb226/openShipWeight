@@ -14,7 +14,7 @@ References
 	Naval Sea Systems Command, 2 AUG 1996.
 	https://fas.org/man/dod-101/sys/ship/nstm/ch096.pdf
 
-2)	Weight Estimating and Margins Manual.
+2)  Weight Estimating and Margins Manual.
 	SNAME Technical and Research Bulletin No. 7-8, 2002.
 	http://www.sname.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=16c42422-1446-42d4-87ee-c8e9c9f18cee
 
