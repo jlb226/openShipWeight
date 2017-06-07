@@ -2,14 +2,10 @@
 ShipWeightOS
 ============
 
-
-Add a short description here!
-
-
 Description
 ===========
 
-A longer description of your project goes here...
+ShipWeightOS is an open-source weights tracking program for water-borne vessels.
 
 
 Note
