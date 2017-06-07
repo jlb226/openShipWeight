@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-from maze_run.skeleton import fib
+from .context import sample
 
 __author__ = "jlb226"
 __copyright__ = "jlb226"

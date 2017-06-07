@@ -6,7 +6,7 @@ console script. To run this script uncomment the following line in the
 entry_points section in setup.cfg:
 
     console_scripts =
-     fibonacci = maze_run.skeleton:run
+     fibonacci = ShipWeightOS.skeleton:run
 
 Then run `python setup.py install` which will install the command `fibonacci`
 inside your current environment.
@@ -21,7 +21,7 @@ import argparse
 import sys
 import logging
 
-from maze_run import __version__
+from ShipWeightOS import __version__
 
 __author__ = "jlb226"
 __copyright__ = "jlb226"
@@ -60,7 +60,7 @@ def parse_args(args):
     parser.add_argument(
         '--version',
         action='version',
-        version='maze_run {ver}'.format(ver=__version__))
+        version='ShipWeightOS {ver}'.format(ver=__version__))
     parser.add_argument(
         dest="n",
         help="n-th Fibonacci number",
