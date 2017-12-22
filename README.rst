@@ -1,11 +1,11 @@
 ============
-ShipWeightOS
+openShipWeight
 ============
 
 Description
 ===========
 
-ShipWeightOS is an open-source weights tracking program for water-borne vessels.
+openShipWeight is an open-source weights tracking program for water-borne vessels.
 
 References
 ==========
@@ -18,8 +18,3 @@ References
 	SNAME Technical and Research Bulletin No. 7-8, 2002.
 	http://www.sname.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=16c42422-1446-42d4-87ee-c8e9c9f18cee
 
-Note
-====
-
-This project has been set up using PyScaffold 2.5.7. For details and usage
-information on PyScaffold see http://pyscaffold.readthedocs.org/.

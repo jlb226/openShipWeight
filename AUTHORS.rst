@@ -2,4 +2,4 @@
 Developers
 ==========
 
-* jlb226 <jlb226@georgetown.edu>
+* Jay Borthen <jlb226@georgetown.edu>
